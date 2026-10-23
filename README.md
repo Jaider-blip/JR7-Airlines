@@ -1,0 +1,1 @@
+En CR7 Airlines tenemos como misión conectar personas y destinos mediante un servicio de transporte aéreo seguro, cómodo y eficiente. Nos comprometemos a brindar una atención de calidad, ofrecer experiencias agradables a nuestros pasajeros y trabajar constantemente en la innovación, la responsabilidad ambiental y la excelencia en cada vuelo.
