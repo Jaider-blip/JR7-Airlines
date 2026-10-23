@@ -30,6 +30,6 @@ la confianza de nuestros pasajeros e implementar prácticas sostenibles que cont
 
 
 ## Proyección
-- Una aerolínea ficticia con rutas nacionales e internacionales y una experiencia prémium.
+- Una aerolínea con rutas nacionales e internacionales y una experiencia prémium.
 
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0f24826-4bc0-47a5-a670-740055878f28" />
