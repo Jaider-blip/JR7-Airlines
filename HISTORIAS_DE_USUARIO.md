@@ -38,8 +38,8 @@ Como vendedor de viajes
 Quiero que el sistema calcule el valor total del viaje
 Para informar el costo exacto al cliente sin errores manuales.
 
-- Criterio: valor = costo de la maleta × (acompañantes + 1), en COP.
-- Criterio: ejemplo: MB con 2 acompañantes = 285.325 × 3 = 855.975 COP.
+- Criterio: valor = costo de la maleta × acompañantes en COP.
+- Criterio: ejemplo: MB con 2 acompañantes = 285.325 × 3 = 570.650 COP.
 - Trazabilidad: RF-05, RD-01, RD-02
 
 ## HU-06: Visualizar la información
